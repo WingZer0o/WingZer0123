@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WingZer0123
-- 👀 I’m interested in C#, TypeScript, Microsoft Technologies, Angular, React, Node.js, and Deno.
+- 👀 I’m interested in C#, TypeScript, Ruby, Microsoft Technologies, Angular, React, Node.js, and Deno.
 - 🌱 I’m working on JWT, Ciphers, Encryption as a Service in .NET Core 3.1.
 - 💞️ I’m looking to collaborate on projects that peak my interest that increase my skills in C#, Rust, or C++.
 
